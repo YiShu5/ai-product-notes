@@ -8,7 +8,7 @@
 
 | 发布时间 | 文章 | 主题 |
 | --- | --- | --- |
-| 2025-03-19 | [新手别怕！3 分钟学会扣子（Coze）基础智能体部署](articles/coze-agent-deployment-guide.md) | Coze、智能体、插件、发布 |
+| 2025-03-19 | [新手别怕！3 分钟学会扣子（Coze）基础智能体部署](articles/agent/2025/coze-agent-deployment-guide.md) | Coze、智能体、插件、发布 |
 
 ## 关于我
 
