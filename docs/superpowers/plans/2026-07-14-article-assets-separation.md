@@ -286,10 +286,10 @@ Expected: The commit includes the categorized article, legacy notice, README upd
 Run:
 
 ```bash
-git push origin main
+git push origin HEAD:main
 ```
 
-Expected: `main` is pushed without force and tracks `origin/main`.
+Expected: The execution branch is fast-forwarded to remote `main` without force.
 
 ---
 
