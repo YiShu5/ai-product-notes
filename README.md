@@ -9,6 +9,7 @@
 | 发布时间 | 文章 | 主题 |
 | --- | --- | --- |
 | 2025-03-19 | [新手别怕！3 分钟学会扣子（Coze）基础智能体部署](articles/agent/2025/coze-agent-deployment-guide.md) | Coze、智能体、插件、发布 |
+| 2024-07-07 | [C语言新手小白详细教程（2）变量与运算符](articles/programming/2024/c-language-variables-and-operators.md) | C 语言、数据类型、变量、运算符 |
 | 2024-06-23 | [C语言新手小白详细教程（1）环境的搭建](articles/programming/2024/c-language-environment-setup.md) | C 语言、VS Code、MinGW |
 
 ## 关于我
