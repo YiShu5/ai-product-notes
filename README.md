@@ -10,6 +10,13 @@
 | --- | --- | --- |
 | 2025-03-19 | [新手别怕！3 分钟学会扣子（Coze）基础智能体部署](articles/agent/2025/coze-agent-deployment-guide.md) | Coze、智能体、插件、发布 |
 | 2024-07-28 | [C语言新手小白详细教程（3）选择语句](articles/programming/2024/c-language-selection-statements.md) | C 语言、if、switch、分支结构 |
+| 2024 | [C语言新手小白详细教程（4）循环语句](articles/programming/2024/c-language-loops.md) | C 语言、while、for、break、continue |
+| 2024 | [C语言新手小白详细教程（5）数组](articles/programming/2024/c-language-arrays.md) | C 语言、一维数组、二维数组 |
+| 2024 | [C语言新手小白详细教程（6）初步理解函数](articles/programming/2024/c-language-functions-introduction.md) | C 语言、函数、参数、返回值 |
+| 2024 | [C语言新手小白详细教程（7）指针和指针变量](articles/programming/2024/c-language-pointers.md) | C 语言、指针、地址、解引用 |
+| 2024 | [在Linux操作系统中进行C语言程序的编译与执行](articles/programming/2024/linux-compile-and-run-c.md) | Linux、GCC、C 语言、编译 |
+| 2024 | [C语言新手小白详细教程（8）ASCll编码和字符串](articles/programming/2024/c-language-ascii-and-strings.md) | C 语言、ASCII、字符串 |
+| 2024 | [【Linux篇】常用命令及操作技巧（基础篇）](articles/programming/2024/linux-basic-commands.md) | Linux、终端、文件操作、命令行 |
 | 2024-07-07 | [C语言新手小白详细教程（2）变量与运算符](articles/programming/2024/c-language-variables-and-operators.md) | C 语言、数据类型、变量、运算符 |
 | 2024-06-23 | [C语言新手小白详细教程（1）环境的搭建](articles/programming/2024/c-language-environment-setup.md) | C 语言、VS Code、MinGW |
 
