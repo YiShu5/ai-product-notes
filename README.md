@@ -17,6 +17,8 @@
 | 2024 | [在Linux操作系统中进行C语言程序的编译与执行](articles/programming/2024/linux-compile-and-run-c.md) | Linux、GCC、C 语言、编译 |
 | 2024 | [C语言新手小白详细教程（8）ASCll编码和字符串](articles/programming/2024/c-language-ascii-and-strings.md) | C 语言、ASCII、字符串 |
 | 2024 | [【Linux篇】常用命令及操作技巧（基础篇）](articles/programming/2024/linux-basic-commands.md) | Linux、终端、文件操作、命令行 |
+| 2024 | [【Linux篇】常用命令及操作技巧（进阶篇 - 上）](articles/programming/2024/linux-advanced-commands-part-1.md) | Linux、远程管理、SSH、用户权限 |
+| 2024 | [【Linux篇】常用命令及操作技巧（进阶篇 - 下）](articles/programming/2024/linux-advanced-commands-part-2.md) | Linux、超级用户、权限管理 |
 | 2024-07-07 | [C语言新手小白详细教程（2）变量与运算符](articles/programming/2024/c-language-variables-and-operators.md) | C 语言、数据类型、变量、运算符 |
 | 2024-06-23 | [C语言新手小白详细教程（1）环境的搭建](articles/programming/2024/c-language-environment-setup.md) | C 语言、VS Code、MinGW |
 
