@@ -9,6 +9,22 @@
 | 发布时间 | 文章 | 主题 |
 | --- | --- | --- |
 | 2025-03-19 | [新手别怕！3 分钟学会扣子（Coze）基础智能体部署](articles/agent/2025/coze-agent-deployment-guide.md) | Coze、智能体、插件、发布 |
+| 2026 | [做了 3 个月 AI 产品才明白：记忆分三层，最难的那层叫遗忘](articles/ai/2026/ai-memory-forgetting.md) | AI 产品、记忆、遗忘 |
+| 2026 | [全面开源！商汤日日新SenseNova U1发布，迈向模型理解生成统一时代](articles/ai/2026/sensenova-u1-release.md) | SenseNova、多模态、开源模型 |
+| 2026 | [我用 Claude Code + 魔珐星云 SDK，10 分钟做了一个会追问的 AI 家电导购](articles/ai/2026/mofa-ai-home-appliance-guide.md) | Claude Code、SDK、AI 导购 |
+| 2026 | [《上下文引擎 + Runner 本地操作：基于 openJiuwen 的多轮代码调试智能体》](articles/ai/2026/openjiuwen-debug-agent.md) | openJiuwen、调试智能体、Agent |
+| 2026 | [我给 Rokid 眼镜装了个泰酷辣，然后带它去了曼谷](articles/ai/2026/rokid-bangkok-agent.md) | Rokid、智能眼镜、旅行 Agent |
+| 2026 | [灵感不再掉线：Rokid 智能眼镜，如何把音乐创作变成随身工作站？](articles/ai/2026/rokid-music-workstation.md) | Rokid、音乐创作、智能眼镜 |
+| 2026 | [Claude Code 安装全流程：从零到真正用起来](articles/tools/2026/claude-code-installation.md) | Claude Code、安装、AI 编程 |
+| 2026 | [小龙虾一篇讲透，从零到跑起来](articles/tools/2026/xiaolongxia-guide.md) | 工具、部署、教程 |
+| 2025 | [《太会玩了！豆包·图像创作模型解锁多图融合，“破次元”趣味合照疯传全网》](articles/ai/2025/doubao-image-creation.md) | 豆包、图像创作、多图融合 |
+| 2025 | [AI 总瞎输出？PromptPilot 让 Prompt 百发百中！新手秒上手，首月零元购](articles/ai/2025/promptpilot-review.md) | Prompt、PromptPilot、AI 工具 |
+| 2025 | [一句话就能生成完整应用？CodeWave「智能生成应用」真机体验全流程](articles/ai/2025/codewave-app-generation.md) | CodeWave、AI 编程、应用生成 |
+| 2025 | [豆包 Doubao-Seed-Code 深度测评：直接换掉 Claude Code！](articles/ai/2025/doubao-seed-code-review.md) | 豆包、Seed-Code、AI 编程 |
+| 2025 | [【TextIn大模型加速器 + 火山引擎】当文档解析遇见Agent编排，跨国企业如何实现降本80%的数字化跃迁](articles/ai/2025/textin-volcengine-agent.md) | TextIn、火山引擎、Agent、文档解析 |
+| 2025 | [从下载到运行：MySQL 详细安装配置完整教程](articles/database/2025/mysql-installation-guide.md) | MySQL、安装、配置 |
+| 2025 | [母婴级 Claude Code 安装教程](articles/tools/2025/claude-code-installation-baby.md) | Claude Code、安装、教程 |
+| 2025 | [2025必冲远程工具！网易UU远程：免费无套路，反内卷天花板](articles/tools/2025/netease-uu-remote-review.md) | 网易UU远程、远程控制、工具测评 |
 | 2025 | [【MySQL基础】MySQL核心操作全解析](articles/database/2025/mysql-core-operations.md) | MySQL、数据库、SQL |
 | 2025 | [CodeBuddy的安装教程](articles/tools/2025/codebuddy-installation.md) | CodeBuddy、安装、AI 编程 |
 | 2025 | [Git的安装](articles/tools/2025/git-installation.md) | Git、安装、版本控制 |
